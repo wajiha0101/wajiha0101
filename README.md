@@ -20,7 +20,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 ```python
 class Wajiha:
@@ -30,16 +30,16 @@ class Wajiha:
         self.university  = "Bahria University Islamabad"
         self.email       = "naseem.wajiha0101@gmail.com"
         self.passions    = ["Artificial Intelligence", "App Development", "Problem Solving"]
-        self.currently   = ["Learning FastAPI 🔥", "Exploring Android Dev 📱", "Building cool projects 🛠️"]
-        self.fun_fact    = "I debug with tea ☕ and determination 💪"
+        self.currently   = ["Learning FastAPI ", "Exploring Android Dev ", "Building cool projects "]
+        self.fun_fact    = "I debug with tea and determination "
 
     def greet(self):
-        return "Thanks for stopping by! Let's build something amazing together 🚀"
+        return "Thanks for stopping by! Let's build something amazing together "
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -62,7 +62,7 @@ class Wajiha:
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 <div align="center">
 
@@ -78,7 +78,7 @@ class Wajiha:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -94,7 +94,7 @@ class Wajiha:
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 <div align="center">
 
@@ -110,7 +110,7 @@ class Wajiha:
 
 ---
 
-## 💬 Dev Quote of the Day
+##  Dev Quote of the Day
 
 <div align="center">
 
@@ -122,7 +122,7 @@ class Wajiha:
 
 <div align="center">
 
-### 🤝 Let's Connect & Collaborate!
+###  Let's Connect & Collaborate!
 
 <a href="mailto:naseem.wajiha0101@gmail.com">
   <img src="https://img.shields.io/badge/Drop%20Me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
