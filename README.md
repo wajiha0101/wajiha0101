@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20to-Collaborations-brightgreen?style=for-the-badge&logo=handshake&logoColor=white"/>
 &nbsp;
-<img src="https://komarev.com/ghpvc/?username=wajiha-naseem&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=wajiha0101&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -82,13 +82,13 @@ class Wajiha:
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wajiha-naseem&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=wajiha0101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true"/>
 &nbsp;
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha-naseem&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wajiha0101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=wajiha-naseem&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=wajiha0101&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e" />
 
 </div>
 
@@ -114,7 +114,7 @@ class Wajiha:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=wajiha-naseem&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=wajiha0101&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10"/>
 
 </div>
 
