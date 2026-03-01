@@ -110,16 +110,6 @@ class Wajiha:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=wajiha0101&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
-
-</div>
-
----
-
 ## 💬 Dev Quote of the Day
 
 <div align="center">
