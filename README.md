@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Wajiha</h1>
+<h3 align="center">Computer Science Student | Learning Programming 🚀</h3>
 
-<!--
-**wajiha0101/wajiha0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+- C++
+- Data Structures
+- Android Development
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My Projects:
+- CP Lab Tasks
+- Open Ended Lab
+- Mid Term Projects
+
+📫 How to reach me:
+- Email: your-email-here@gmail.com
+
+---
+
+✨ About Me:
+- 🎓 software Engineering Student
+- 💡 Interested in AI & App Development
+- 🚀 Improving my coding skills daily
+
+---
+
+⭐ Thank you for visiting my profile!
