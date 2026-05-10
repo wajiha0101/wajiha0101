@@ -30,7 +30,7 @@ class Wajiha:
         self.university  = "Bahria University Islamabad"
         self.email       = "naseem.wajiha0101@gmail.com"
         self.passions    = ["Artificial Intelligence", "App Development", "Problem Solving"]
-        self.currently   = ["Learning FastAPI ", "Exploring Android Dev ", "Building cool projects "]
+        self.currently   = ["AI development ", "Exploring Android Dev ", "Building cool projects "]
         self.fun_fact    = "I debug with tea and determination "
 
     def greet(self):
