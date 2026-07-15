@@ -66,8 +66,11 @@ class Wajiha:
 
 <div align="center">
 
+## Projects
+
 | Project | Description | Tech |
-| 🦗 **Locust Detection System** | Triggering AI powered alerts for locust swarms | App Dev |
+|---------|-------------|------|
+| 🦗 **Locust Detection System** | Triggering AI-powered alerts for locust swarms | App Dev |
 | 🎓 **FYP System** | Final Year Project Management System | Python, FastAPI |
 | 📋 **Flow Board** | Task & workflow management platform | App Dev |
 | 🐚 **ZenoShell** | Custom command-line shell application | C++ |
@@ -101,9 +104,10 @@ class Wajiha:
 ```
 🔥 FastAPI     ████████████░░░░░░░░  60%
 🤖 AI / ML     ████████░░░░░░░░░░░░  40%
-📱 Node ja     ██████░░░░░░░░░░░░░░  55%
+📱 Android     ██████░░░░░░░░░░░░░░  30%
 🐍 Python      ███████████████░░░░░  75%
 ⚡ C++         █████████░░░░░░░░░░░  45%
+🟢 Node.js     ███████████░░░░░░░░░  55%
 ```
 
 </div>
